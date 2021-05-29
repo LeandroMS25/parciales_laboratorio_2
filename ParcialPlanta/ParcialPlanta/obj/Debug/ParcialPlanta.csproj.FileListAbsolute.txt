@@ -1,0 +1,7 @@
+C:\Users\leito\OneDrive\Escritorio\PracticaParcial\ParcialPlanta\ParcialPlanta\bin\Debug\ParcialPlanta.exe.config
+C:\Users\leito\OneDrive\Escritorio\PracticaParcial\ParcialPlanta\ParcialPlanta\bin\Debug\ParcialPlanta.exe
+C:\Users\leito\OneDrive\Escritorio\PracticaParcial\ParcialPlanta\ParcialPlanta\bin\Debug\ParcialPlanta.pdb
+C:\Users\leito\OneDrive\Escritorio\PracticaParcial\ParcialPlanta\ParcialPlanta\obj\Debug\ParcialPlanta.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\PracticaParcial\ParcialPlanta\ParcialPlanta\obj\Debug\ParcialPlanta.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\PracticaParcial\ParcialPlanta\ParcialPlanta\obj\Debug\ParcialPlanta.exe
+C:\Users\leito\OneDrive\Escritorio\PracticaParcial\ParcialPlanta\ParcialPlanta\obj\Debug\ParcialPlanta.pdb

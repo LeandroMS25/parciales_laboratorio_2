@@ -1,0 +1,24 @@
+C:\Users\leito\OneDrive\Escritorio\Primer parcial Laboratorio 2 Leandro Sobrino 2D\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\Primer parcial Laboratorio 2 Leandro Sobrino 2D\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\Primer parcial Laboratorio 2 Leandro Sobrino 2D\Sobrino.Leandro.2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\leito\OneDrive\Escritorio\Primer parcial Laboratorio 2 Leandro Sobrino 2D\Sobrino.Leandro.2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\leito\OneDrive\Escritorio\Primer parcial Laboratorio 2 Leandro Sobrino 2D\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\leito\OneDrive\Escritorio\Primer parcial Laboratorio 2 Leandro Sobrino 2D\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\leito\OneDrive\Escritorio\Sobrino.Leandro.2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\leito\OneDrive\Escritorio\Sobrino.Leandro.2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\leito\OneDrive\Escritorio\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\leito\OneDrive\Escritorio\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\Sobrino.Leandro.2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\Sobrino.Leandro.2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\Parciales\Sobrino.Leandro.2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\Parciales\Sobrino.Leandro.2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\Parciales\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\Parciales\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\Parciales\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\Parciales\Sobrino.Leandro.2D\Entidades\obj\Debug\Entidades.pdb

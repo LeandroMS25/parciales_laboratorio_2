@@ -1,0 +1,7 @@
+C:\Users\leito\OneDrive\Escritorio\PracticaParcial\ParcialDragonBall\ParcialDragonBall\bin\Debug\ParcialDragonBall.exe.config
+C:\Users\leito\OneDrive\Escritorio\PracticaParcial\ParcialDragonBall\ParcialDragonBall\bin\Debug\ParcialDragonBall.exe
+C:\Users\leito\OneDrive\Escritorio\PracticaParcial\ParcialDragonBall\ParcialDragonBall\bin\Debug\ParcialDragonBall.pdb
+C:\Users\leito\OneDrive\Escritorio\PracticaParcial\ParcialDragonBall\ParcialDragonBall\obj\Debug\ParcialDragonBall.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\PracticaParcial\ParcialDragonBall\ParcialDragonBall\obj\Debug\ParcialDragonBall.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\PracticaParcial\ParcialDragonBall\ParcialDragonBall\obj\Debug\ParcialDragonBall.exe
+C:\Users\leito\OneDrive\Escritorio\PracticaParcial\ParcialDragonBall\ParcialDragonBall\obj\Debug\ParcialDragonBall.pdb
